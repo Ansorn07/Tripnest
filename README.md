@@ -35,6 +35,23 @@ Make sure you have Node.js and npm installed:
 ```bash
 node -v
 npm -v
-Installation
 
 
+🧾 Scripts
+Command	Description
+npm start	Start development server
+npm run build	Build the app for production
+
+📄 License
+This project is licensed under the MIT License – feel free to use and modify.
+
+🙌 Acknowledgements
+
+React Docs
+
+Webpack & Babel Community
+
+Unsplash for images
+
+
+“Travel makes one modest, you see what a tiny place you occupy in the world.” — Gustave Flaubert
