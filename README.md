@@ -15,6 +15,26 @@ TripNest is a minimal travel booking UI built using **React**, **Webpack**, and 
 - 🚀 Ready for future enhancements
 
 ---
+---
 
-## 📁 Folder Structure
+## 🛠️ Built With
+
+- [React](https://reactjs.org/) – UI Library
+- [Webpack](https://webpack.js.org/) – Module Bundler
+- [Babel](https://babeljs.io/) – JavaScript Compiler
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) – Styling
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and npm installed:
+
+```bash
+node -v
+npm -v
+Installation
+
 
