@@ -3,7 +3,7 @@
 TripNest is a minimal travel booking UI built using **React**, **Webpack**, and **Babel**. It showcases beautiful destinations with an intuitive and visually appealing design — ideal for travelers who plan their journeys with love. ❤️
 
 ## ✨ Features
-
+ 
 - 🏛️ Clean UI showcasing Indian monuments
 - 💅 Modular CSS support with Webpack
 - ⚡ Fast bundling and hot reloading
